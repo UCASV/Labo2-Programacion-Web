@@ -1,0 +1,24 @@
+
+* {
+  box-sizing: border-box;
+}
+
+
+p {
+  margin-block: 1.5rem;
+}
+
+
+.page {
+  text-decoration: underline;
+}
+
+
+#page-title {
+  font-family: monospace;
+}
+
+
+h1, p {
+  display: flex;
+}
